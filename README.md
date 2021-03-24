@@ -1,6 +1,7 @@
 ### Olá 👋
 
-## Me chamo Pedro, tenho 18 anos, sou um DEV front-end e acredito que posso fazer grandes coisas.
+## Me chamo Pedro, tenho 18 anos, sou um DEV front-end
+### e ainda acredito que posso fazer grandes coisas.
 
 - Minha linguagem principal é javascript, mas também uso muito python e Java
 - Gosto de participar de maratonas de programação
