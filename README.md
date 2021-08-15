@@ -1,6 +1,6 @@
 ## Olá 👋
 
-### Me chamo Pedro, tenho 18 anos, sou um DEV front-end e ainda acredito que posso fazer grandes coisas.
+### Me chamo Pedro, tenho 18 anos, estou construindo minha carreira de DEV e acredito que ainda posso fazer grandes coisas.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 
