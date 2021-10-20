@@ -9,7 +9,10 @@
 - Gosto de participar de maratonas de programação
 
 ## Minhas estatisticas do github:
-<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSouza157998&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroSouza157998&show_icons=true&locale=en" alt="Pedro" /></p>
+  <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSouza157998&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
+
+
 
 ## Linguagens: 
 
