@@ -1,6 +1,6 @@
 ## Hello 👋
 
-### My name is Pedro, I'm 18 years old, I have constructing my carrer of DEV and believe that I can to do big things.
+### My name is Pedro, I'm 18 years old, I'm Brazilian and I have constructing my carrer of DEV and believe that I can to do big things.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 
