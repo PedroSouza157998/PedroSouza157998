@@ -1,11 +1,11 @@
 ## Hello 👋
 
-### My name is Pedro, I'm 18 years old, I'm from Brazil and I have constructing my carrer of DEV and believe that I can to do big things.
+### My name is Pedro, I'm 18 years old, I'm from Brazil, I'm constructing my DEV career and I believe that I can do big things.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 
 - Nascido e criado em Pernambuco
-- Minha linguagem principal é javascript, mas também uso muito python, php e Java
+- Minha linguagem principal é javascript, mas também uso muito python
 - Gosto de participar de maratonas de programação
 
 ## Minhas estatisticas do github:
