@@ -2,7 +2,7 @@
 
 ### My name is Pedro, I'm 18 years old, I'm from Brazil, I'm constructing my DEV career and I believe that I can do big things.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="PedroSouza157998" /> </p>
 
 - born and raised in Pernambuco
 - My main language programing is javascript, but also use a lot python
