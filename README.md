@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="PedroSouza157998" /> </p>
 
-- born and raised in Pernambuco
+- Born and raised in Pernambuco
 - My main language programing is javascript, but also use a lot python
 - I like very program marathon
 - Contact email: pams@cin.ufpe.br
