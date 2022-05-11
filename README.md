@@ -7,6 +7,7 @@
 - born and raised in Pernambuco
 - My main language programing is javascript, but also use a lot python
 - I like very program marathon
+- Contact email: pams@cin.ufpe.br
 
 
 ## My Github Statistics:
