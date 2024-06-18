@@ -1,6 +1,6 @@
 ## Hello 👋
 
-### My name is Pedro, I'm 18 years old, born and living on Brazil and I'm constructing my DEV career believing that I can do awesome things.
+### My name is Pedro, I'm 21 years old, born and living on Brazil and I'm constructing my DEV career believing that I can do awesome things.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="PedroSouza157998" /> </p>
 
