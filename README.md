@@ -1,20 +1,15 @@
 ## Hello 👋
 
-### My name is Pedro, I'm 21 years old, born and living on Brazil and I'm building my Developer career, believing that I can do awesome things.
+### If you got a good challenge, let me know;
+
+- 🔭 currently working at Xerlock Smart Gov as a Full-stack Developer
+- 📫 Contact me at: pams@cin.ufpe.br
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="PedroSouza157998" /> </p>
-
-- Born and raised on Pernambuco
-- My main language programing is javascript, but also use a lot of python
-- I like very program marathon
-- Contact email: pams@cin.ufpe.br
 
 
 ## My Github Statistics:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroSouza157998&show_icons=true&locale=en" alt="Pedro" /></p>
-  <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSouza157998&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
-
-
 
 ## languages: 
 
