@@ -2,7 +2,7 @@
 
 ### If you got a good challenge, let me know;
 
-- 🔭 currently working at Xerlock Smart Gov as a Full-stack Developer
+- 🔭 currently working at Accenture as a Software Engineer
 - 📫 Contact me at: pams@cin.ufpe.br
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="PedroSouza157998" /> </p>
